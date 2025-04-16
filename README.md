@@ -26,7 +26,7 @@
 ### 💡 A Bit More About Me
 
 - 🎓 CS Student at University of Ghana  
-- ☁️ Aspiring Cloud Security Architect  
+- ☁️ Aspiring Penetration Tester  
 - 📚 Self-driven, always curious, always shipping  
 - 💬 Let's talk secure web apps, React patterns, or backend design!
 
