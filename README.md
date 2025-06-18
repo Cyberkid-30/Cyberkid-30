@@ -35,7 +35,7 @@
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kwabena-eyiah-phandoh-a69b61321?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpqkXpZFuRui7bfVV4N7P8Q%3D%3D)  
-- 🌍 [Portfolio](https://your-portfolio.com)  
+- 🌍 [Portfolio](https://portfolio-dusky-seven-85.vercel.app/)  
 - 📨 Reach me: janphandoh@gmail.com
 
 ---
